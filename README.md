@@ -8,8 +8,9 @@ Founder of [**Orpita Game Community**](https://github.com/Orpita-Community) · C
 </div>
 
 > Hey👋🏻, I'm Amr Elmahdy — a business student at Alexandria University.<br>
-> I like programming in general and don't really have a specialization. Somehow I ended up in game design, alongside puzzles and ARGs.🤓<br>
-> On the side I'm trying to learn frontend and build a few projectsI think might be useful to me or to someone else.🫡<br>
+> I like programming in general and don't really have a specialization.<br>
+>Somehow I ended up in game design, alongside puzzles and ARGs.🤓<br>
+> On the side I'm trying to learn frontend and build a few projects I think might be useful to me or to someone else.🫡<br>
 > Just wandering between programming fields until I find my way.💜
 
 <div align="center">
