@@ -5,9 +5,15 @@
 ### Building games, ARGs, websites, and tools.
 
 Founder of [**Orpita Game Community**](https://github.com/Orpita-Community) · Creator of [**Jurdian Project**](https://github.com/Jurdian-Project)
+</div>
 
-I design games and the teams behind them, from concept to playable games. I also build ARG experiences, puzzles, ciphers, and I'm really good at hiding information. And on top of that, I build websites, tools, and automate small things.
+> Hey👋🏻, I'm Amr Elmahdy — a business student at Alexandria University.<br>
+> I like programming in general and don't really have a specialization. Somehow I ended up in game design, alongside puzzles and ARGs.🤓<br>
+> On the side I'm trying to learn frontend and build a few projectsI think might be useful to me or to someone else.🫡<br>
+> Just wandering between programming fields until I find my way.💜
 
+<div align="center">
+  
 [![LinkedIn](https://charmly.read-me.workers.dev/icons?i=linkedin&bg=false&size=34)](https://www.linkedin.com/in/amrelmahdy001)&nbsp;•&nbsp;
 [![Discord](https://charmly.read-me.workers.dev/icons?i=discord&bg=false&size=34)](https://discord.com/users/1182608646455177287)&nbsp;•&nbsp;
 [![Gmail](https://charmly.read-me.workers.dev/icons?i=gmail&bg=false&size=34)](mailto:amrelmahdy001@gmail.com)
@@ -21,6 +27,14 @@ I design games and the teams behind them, from concept to playable games. I also
 - **[Orpita Community Website](https://github.com/amr-elmahdy/orpita-community-web)** — a new home for the Orpita community, still in active development — but you can visit the website and see how far it's come.
 
 - **[Charmly](https://github.com/amr-elmahdy/Charmly)** — an icon API for READMEs, growing with more icons and new display tools like widgets.
+- 
+#### Skills & Tools
+
+  ![](https://charmly.read-me.workers.dev/icons?i=html,css,tailwindcss,gasb,javascript,git,github,githubactions,cloudflare,firebase,maketoo,visualbasic&perline=6&size=30&bg=false)
+  
+#### Currently Learning
+
+  ![](https://charmly.read-me.workers.dev/icons?i=react,nextjs,typescript,scss,npm,vite&perline=6&size=30&bg=false)
 
 ## Orpita Game Community
 
@@ -87,7 +101,7 @@ The first ARG of its kind in Egypt. Currently building the infrastructure: ciphe
 
 Small things I build on the side — tools, experiments, and utilities that solve a specific problem.
 
-[![Charmly](https://charmly.read-me.workers.dev/card?title=Charmly&desc=An+icon+API+for+READMEs+%E2%80%94+drop+a+URL%2C+get+an+icon.+Now+growing+with+widgets+and+more+display+tools.+Built+on+Cloudflare+Workers.&img=https://raw.githubusercontent.com/amr-elmahdy/amr-elmahdy/refs/heads/main/assets/charmly-500.jpg&c=140035,100030&tc=B048D0&dc=D0C0D0&tl=true&im=smooth&co=smooth&tr=stars:amr-elmahdy/Charmly&br=version:amr-elmahdy/Charmly&bl=lan:amr-elmahdy/Charmly)](https://github.com/amr-elmahdy/Charmly)
+[![Charmly](https://charmly.read-me.workers.dev/card?title=Charmly&desc=An+icon+API+for+READMEs+%E2%80%94+drop+a+URL%2C+get+an+icon.+Now+growing+with+widgets+and+more+display+tools.+Built+on+Cloudflare+Workers.&img=https://raw.githubusercontent.com/amr-elmahdy/amr-elmahdy/refs/heads/main/assets/charmly-500.jpg&c=140035,100030&tc=B048D0&dc=D0C0D0&tl=true&im=smooth&co=smooth&tr=stars:amr-elmahdy/charmly&br=version:amr-elmahdy/charmly&bl=lan:amr-elmahdy/charmly)](https://github.com/amr-elmahdy/charmly)
 
 ---
 
